@@ -25,10 +25,32 @@ IBM Cloud
 - Select the Lite plan and click `Create`.
 - Go back to the Resources list and click on your Watson Studio service and then click `Get Started`. 
 
-![](https://github.com/IBMDeveloperUK/jupyter-notebooks-101/blob/master/images/launch.png)
+![](https://github.com/IBMDeveloperUK/Colourise-GAN-Workshop/blob/master/images/launch.png)
 
 ## IBM Watson Studio
 
+### 1. Create a new Project
+
+![](https://github.com/IBMDeveloperUK/Colourise-GAN-Workshop/blob/master/images/watson_get_started.png)
+
+- You should now be in Watson Studio.
+- Create a new project by clicking on `Create Project` under `Start working`
+- Select `Create and Empty Project`
+- Give your Project a name.
+- Select an Object Storage from the drop-down menu or create a new one for free. This is used to store the notebooks and data. **Do not forget to click refresh when returning to the Project page.**
+- click `Create`.
+
+## 4. Load and run a notebook
+
+-  Add a new notebook. Click `Add to project` and choose `Notebook`:
+
+![](https://github.com/IBMDeveloperUK/Colourise-GAN-Workshop/blob/master/images/notebook.png)
+
+- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/Colourise-GAN-Workshop/raw/master/Colourise_GAN_64.ipynb`
+- Select the custom runtime enviroment that you created and click `Create Notebook`. 
+- The notebook will load. 
+ 
+You are now ready to follow along with the workshop in the notebook!
 
 ## Credits
 
