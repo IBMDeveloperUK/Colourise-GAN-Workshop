@@ -56,5 +56,5 @@ You are now ready to follow along with the workshop in the notebook!
 
 Code for the GAN in this workshop is based upon code in the following two other repositories:
 
-https://github.com/zeruniverse/neural-colorization
-https://github.com/15101538237ren/Colorizing-with-GANs-PyTorch
+- https://github.com/zeruniverse/neural-colorization
+- https://github.com/15101538237ren/Colorizing-with-GANs-PyTorch
