@@ -5,6 +5,10 @@ an running your own one in IBM Watson Studio.
 
 The GAN in this case is written using the PyTorch library and will be used to add colour to black and white images.
 
+## Recording
+
+A recording of this workshop being presented on 20th August 2020 is available at: https://www.cinnamon.video/watch?v=390993078330066941
+
 ## Getting Started with Jupyter Notebooks
 
 Jupyter notebooks are an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
